@@ -1,8 +1,9 @@
-cd server
-npm install
-npm runDev
-cd ../client/
-npm install
-npm start
-
+cd server__
+npm install__
+npm runDev__
+cd ../client/__
+npm install__
+npm start__
+__
+__
 to start this app
