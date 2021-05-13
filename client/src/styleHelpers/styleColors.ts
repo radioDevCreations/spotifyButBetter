@@ -4,4 +4,6 @@ export const styleColors = {
     spotifyBlack: '#000000',
 
     lightgray: '#ddd',
+    gray: '#999',
+    interfacegray: '#303030',
 }

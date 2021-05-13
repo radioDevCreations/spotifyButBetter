@@ -3,7 +3,7 @@ import axios from "axios";
 import { clearInterval } from "timers";
 
 export default function useAuth(code: string) {
-  const [accessToken, setAccessToken] = useState();
+  const [accessToken, setAccessToken] = useState("");
   const [refreshToken, setRefreshToken] = useState();
   const [expiresIn, setExpiresIn] = useState(0);
 
