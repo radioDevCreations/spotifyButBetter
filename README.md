@@ -1,3 +1,4 @@
+generate and type your public and private spotify client id and client secret__
 cd server__
 npm install__
 npm runDev__
